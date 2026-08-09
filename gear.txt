@@ -1,4 +1,5 @@
-﻿Bags: Connected (84 slots scanned)
+﻿Generated: Saturday, August 08, 2026 07:56 PM
+Bags: Connected (84 slots scanned)
 Bank: NOT CONNECTED -- open your bank window, then run /gearexport again
 
 === GEAR EXPORT (TBC): Timmybreadd-Nightslayer ===
