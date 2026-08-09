@@ -1,4 +1,4 @@
-﻿Generated: Saturday, August 08, 2026 09:52 PM
+﻿Generated: Sunday, August 09, 2026 01:37 AM
 Bags: Connected (84 slots scanned)
 Bank: NOT CONNECTED -- open your bank window, then run /gearexport again
 
@@ -7,23 +7,26 @@ Class: MAGE | Level: 70
 Average Equipped Item Level: 109.7 (17 items counted)
 
 -- QUICK SUMMARY (for you to skim) --
-Neck: Brooch of Heightened Potential (ilvl 112) -> maybe Potent Sha'tari Pendant (ilvl 115, Bag) -- check stats below before switching
+Neck: Brooch of Heightened Potential (ilvl 112) -> maybe Tanzanite Pendant of Eluding (ilvl 120, Bag) -- check stats below before switching
 Back: Cloak of Entropy (ilvl 88) -> maybe Sergeant's Heavy Cape (ilvl 123, Bag) -- check stats below before switching
 Legs: Deadly Borer Leggings (ilvl 88) -> maybe Evoker's Silk Trousers (ilvl 115, Bag) -- check stats below before switching
 Ring 2: Scintillating Coral Band (ilvl 112) -> maybe Alexandrite Ring of the Tiger (ilvl 114, Bag) -- check stats below before switching
 Trinket 1: Jewel of Charismatic Mystique (ilvl 112) -> maybe Medallion of the Alliance (ilvl 115, Bag) -- check stats below before switching
 Trinket 2: Vengeance of the Illidari (ilvl 88) -> maybe Medallion of the Alliance (ilvl 115, Bag) -- check stats below before switching
+Off Hand: Manual of the Nethermancer (ilvl 115) -> maybe Draenei Crystal Rod of Intellect (ilvl 120, Bag) -- check stats below before switching
 
 -- FULL DATA (for AI analysis) --
 
 Head:
   EQUIPPED: Incanter's Cowl (ilvl 115, Rare) | Crit Spell Rating 19, Intellect 27, Spell Power 28, Spirit 17, Stamina 15, Armor 127 | Sockets: Meta x1 empty, Yellow x1 empty
+  CANDIDATE (Bag): Mana-Etched Crown (ilvl 115, Rare) | Intellect 20, Spell Penetration 16, Spell Power 33, Stamina 27, Armor 127 | Sockets: Meta x1 empty, Red x1 empty
   CANDIDATE (Bag): Hydromancer's Headwrap (ilvl 115, Rare) | Intellect 27, Spell Power 32, Stamina 21, Armor 127 | Sockets: Meta x1 empty, Blue x1 empty
   CANDIDATE (Bag): Evoker's Silk Cowl (ilvl 115, Rare) | Crit Spell Rating 17, Intellect 16, Resilience Rating 19, Spell Power 22, Stamina 39, Armor 127 | Sockets: Meta x1 empty, Red x1 empty
 
 Neck:
   EQUIPPED: Brooch of Heightened Potential (ilvl 112, Rare) | Crit Spell Rating 14, Hit Spell Rating 9, Intellect 14, Spell Power 21, Stamina 15
   CANDIDATE (Bag): Potent Sha'tari Pendant (ilvl 115, Rare) | Resilience Rating 24, Spell Power 26
+  CANDIDATE (Bag): Tanzanite Pendant of Eluding (ilvl 120, Uncommon) | Agility 21, Dodge Rating 21
 
 Shoulder:
   EQUIPPED: Spaulders of Oblivion (ilvl 115, Rare) | Intellect 17, Spell Power 28, Stamina 25, Armor 117 | Sockets: Yellow x1 filled, Blue x1 filled
@@ -42,7 +45,6 @@ Chest:
 
 Wrist:
   EQUIPPED: Shattrath Wraps (ilvl 115, Rare) | Intellect 15, Spell Power 20, Stamina 15, Armor 68 | Sockets: Red x1 filled
-  CANDIDATE (Bag): Decaying Leather Bracers (ilvl 72, Poor) | Armor 70
 
 Hands:
   EQUIPPED: Gloves of Oblivion (ilvl 115, Rare) | Hit Spell Rating 20, Intellect 21, Spell Power 25, Stamina 33, Armor 97
@@ -50,6 +52,7 @@ Hands:
 
 Waist:
   EQUIPPED: A'dal's Gift (ilvl 115, Rare) | Crit Spell Rating 21, Intellect 25, Spell Power 33, Armor 88
+  CANDIDATE (Bag): Rubium War-Girdle (ilvl 115, Rare) | Crit Rating 18, Stamina 29, Strength 31, Armor 655
 
 Legs:
   EQUIPPED: Deadly Borer Leggings (ilvl 88, Rare) | Crit Spell Rating 22, Intellect 23, Spell Power 26, Spirit 15, Stamina 21, Armor 106
@@ -78,10 +81,13 @@ Trinket 2:
 
 Main Hand:
   EQUIPPED: Crystalforged Sword (ilvl 115, Rare) | Block Rating 11, Damage Per Second 41, Intellect 8, Spell Power 120, Stamina 30
+  CANDIDATE (Bag): Sharpened Stilleto (ilvl 69, Poor) | Damage Per Second 23
   CANDIDATE (Bag, 2H): Battle Mage's Baton (ilvl 103, Rare) | Crit Spell Rating 30, Damage Per Second 60, Intellect 31, Spell Power 84, Stamina 45
 
 Off Hand:
   EQUIPPED: Manual of the Nethermancer (ilvl 115, Rare) | Crit Spell Rating 19, Intellect 15, Spell Power 20, Stamina 12
+  CANDIDATE (Bag): Draenei Crystal Rod of Intellect (ilvl 120, Uncommon) | Intellect 32
+  CANDIDATE (Bag): Sharpened Stilleto (ilvl 69, Poor) | Damage Per Second 23
 
 Ranged:
   EQUIPPED: Nexus Torch (ilvl 115, Rare) | Crit Spell Rating 11, Damage Per Second 129, Intellect 10, Spell Power 7, Stamina 9
@@ -126,11 +132,11 @@ Character (Equipped):
   Nexus Torch (ilvl 115, Rare)
   Guild Tabard (ilvl 1, Common)
 
-Bags (47 items):
+Bags (62 items):
   Reawakened Phase-Hunter (ilvl 30, Epic)
   Blue Mechanostrider (ilvl 30, Rare)
   Ebon Gryphon (ilvl 70, Rare)
-  Arcane Powder x11 (ilvl 56, Common)
+  Arcane Powder x2 (ilvl 56, Common)
   Dark Portal (ilvl 1, Rare)
   Hearthstone (ilvl 1, Common)
   Miniwing (ilvl 96, Common)
@@ -140,28 +146,43 @@ Bags (47 items):
   Coilfang Armaments x4 (ilvl 1, Common)
   Path of Illidan (ilvl 1, Rare)
   Mature Bone Sifter Carcass x7 (ilvl 1, Common)
-  Sunfury Signet x32 (ilvl 1, Common)
-  Spirit Shard x15 (ilvl 1, Common)
+  Sunfury Signet x33 (ilvl 1, Common)
+  Spirit Shard x17 (ilvl 1, Common)
   Talasite (ilvl 70, Rare)
   Holy Dust (ilvl 0, Common)
   Mild Spices x20 (ilvl 5, Common)
   Underspore Pod x11 (ilvl 100, Common)
-  Conjured Glacier Water x4 (ilvl 75, Common)
-  Mark of Sargeras x20 (ilvl 1, Common)
-  Rune of Portals x19 (ilvl 40, Common)
+  Conjured Glacier Water x8 (ilvl 75, Common)
+  Mark of Sargeras x25 (ilvl 1, Common)
+  Rune of Portals x17 (ilvl 40, Common)
   Netherweave Cloth x20 (ilvl 60, Common)
-  Decaying Leather Bracers (ilvl 72, Poor)
+  Mana Emerald (ilvl 68, Common)
   Everlasting Underspore Frond (ilvl 100, Rare)
   Potent Sha'tari Pendant (ilvl 115, Rare)
   Warsong Gulch Mark of Honor x3 (ilvl 1, Uncommon)
-  Smoked Talbuk Venison x3 (ilvl 65, Common)
+  Smoked Talbuk Venison x4 (ilvl 65, Common)
   Alexandrite Ring of the Tiger (ilvl 114, Uncommon)
   Eldr'naan Shoulderpads of the Whale (ilvl 114, Uncommon)
   Arathi Basin Mark of Honor x3 (ilvl 1, Uncommon)
-  Rune of Teleportation x13 (ilvl 20, Common)
-  Purified Draenic Water (ilvl 75, Common)
-  Razor Sharp Fang (ilvl 1, Poor)
+  Rune of Teleportation x12 (ilvl 20, Common)
+  Purified Draenic Water x2 (ilvl 75, Common)
+  Conjured Manna Biscuit x10 (ilvl 75, Common)
   Wand of the Netherwing (ilvl 112, Rare)
+  Netherweave Cloth x14 (ilvl 60, Common)
+  Tanzanite Pendant of Eluding (ilvl 120, Uncommon)
+  Runecloth x6 (ilvl 50, Common)
+  Conjured Croissant x8 (ilvl 75, Common)
+  Master Healthstone (ilvl 70, Common)
+  Zangar Caps (ilvl 65, Common)
+  Draenei Crystal Rod of Intellect (ilvl 120, Uncommon)
+  Sharpened Stilleto (ilvl 69, Poor)
+  Conjured Manna Biscuit x20 (ilvl 75, Common)
+  Bottled Nethergon Energy x7 (ilvl 68, Common)
+  Bottled Nethergon Vapor x2 (ilvl 65, Common)
+  Conjured Manna Biscuit x20 (ilvl 75, Common)
+  Rubium War-Girdle (ilvl 115, Rare)
+  Mana-Etched Crown (ilvl 115, Rare)
+  Primal Nether (ilvl 65, Rare)
   Evoker's Silk Raiment (ilvl 115, Rare)
   Hydromancer's Headwrap (ilvl 115, Rare)
   Medallion of the Alliance (ilvl 115, Rare)
