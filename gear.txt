@@ -1,130 +1,106 @@
-﻿Generated: Sunday, August 09, 2026 01:48 AM
+Generated: Tuesday, August 11, 2026 11:26 PM
 Bags: Connected (84 slots scanned)
-Bank: Connected (28 slots scanned)
+Bank: NOT CONNECTED -- open your bank window, then run /gearexport again
 
 === GEAR EXPORT (TBC): Timmybreadd-Nightslayer ===
 Class: MAGE | Level: 70
-Average Equipped Item Level: 113.5 (17 items counted)
+Average Equipped Item Level: 110.2 (17 items counted)
 
 -- QUICK SUMMARY (for you to skim) --
-Neck: Brooch of Heightened Potential (ilvl 112) -> maybe Tanzanite Pendant of Eluding (ilvl 120, Bag) -- check stats below before switching
-Ring 2: Scintillating Coral Band (ilvl 112) -> maybe Alexandrite Ring of the Tiger (ilvl 114, Bag) -- check stats below before switching
-Trinket 2: Vengeance of the Illidari (ilvl 88) -> maybe Jewel of Charismatic Mystique (ilvl 112, Bag) -- check stats below before switching
-Off Hand: Manual of the Nethermancer (ilvl 115) -> maybe Draenei Crystal Rod of Intellect (ilvl 120, Bag) -- check stats below before switching
+Neck: Brooch of Heightened Potential (ilvl 112) -> maybe Veteran's Pendant of Conquest (ilvl 128, Bag) -- check stats below before switching
+Back: Cloak of Entropy (ilvl 88) -> maybe Sergeant's Heavy Cape (ilvl 123, Bag) -- check stats below before switching
+Waist: A'dal's Gift (ilvl 115) -> maybe Veteran's Silk Belt (ilvl 136, Bag) -- check stats below before switching
+Legs: Deadly Borer Leggings (ilvl 88) -> maybe Evoker's Silk Trousers (ilvl 115, Bag) -- check stats below before switching
+Trinket 1: Jewel of Charismatic Mystique (ilvl 112) -> maybe Medallion of the Alliance (ilvl 115, Bag) -- check stats below before switching
+Trinket 2: Vengeance of the Illidari (ilvl 88) -> maybe Medallion of the Alliance (ilvl 115, Bag) -- check stats below before switching
+Off Hand: Star-Heart Lamp (ilvl 112) -> maybe Manual of the Nethermancer (ilvl 115, Bag) -- check stats below before switching
 
 -- FULL DATA (for AI analysis) --
 
 Head:
-  EQUIPPED: Evoker's Silk Cowl (ilvl 115, Rare) | Crit Spell Rating 17, Intellect 16, Resilience Rating 19, Spell Power 22, Stamina 39, Armor 127 | Sockets: Meta x1 empty, Red x1 empty
-  CANDIDATE (Bag): Mana-Etched Crown (ilvl 115, Rare) | Intellect 20, Spell Penetration 16, Spell Power 33, Stamina 27, Armor 127 | Sockets: Meta x1 empty, Red x1 empty
+  EQUIPPED: Incanter's Cowl (ilvl 115, Rare) | Crit Spell Rating 19, Intellect 27, Spell Power 28, Spirit 17, Stamina 15, Armor 127 | Sockets: Meta x1 empty, Yellow x1 empty
   CANDIDATE (Bag): Hydromancer's Headwrap (ilvl 115, Rare) | Intellect 27, Spell Power 32, Stamina 21, Armor 127 | Sockets: Meta x1 empty, Blue x1 empty
-  CANDIDATE (Bag): Incanter's Cowl (ilvl 115, Rare) | Crit Spell Rating 19, Intellect 27, Spell Power 28, Spirit 17, Stamina 15, Armor 127 | Sockets: Meta x1 empty, Yellow x1 empty
+  CANDIDATE (Bag): Evoker's Silk Cowl (ilvl 115, Rare) | Crit Spell Rating 17, Intellect 16, Resilience Rating 19, Spell Power 22, Stamina 39, Armor 127 | Sockets: Meta x1 empty, Red x1 empty
 
 Neck:
   EQUIPPED: Brooch of Heightened Potential (ilvl 112, Rare) | Crit Spell Rating 14, Hit Spell Rating 9, Intellect 14, Spell Power 21, Stamina 15
-  CANDIDATE (Bag): Potent Sha'tari Pendant (ilvl 115, Rare) | Resilience Rating 24, Spell Power 26
-  CANDIDATE (Bag): Tanzanite Pendant of Eluding (ilvl 120, Uncommon) | Agility 21, Dodge Rating 21
-  CANDIDATE (Bank): Diopside Beads of Regeneration (ilvl 108, Uncommon)
-  CANDIDATE (Bank): Torc of the Sethekk Prophet (ilvl 115, Rare) | Crit Spell Rating 21, Intellect 18, Spell Power 18
+  CANDIDATE (Bag): Veteran's Pendant of Conquest (ilvl 128, Epic) | Crit Spell Rating 18, Intellect 12, Resilience Rating 18, Spell Power 20, Stamina 27 | Sockets: Yellow x1 empty
 
 Shoulder:
-  EQUIPPED: Evoker's Silk Amice (ilvl 115, Rare) | Crit Spell Rating 8, Intellect 16, Resilience Rating 15, Spell Power 24, Stamina 21, Armor 117 | Sockets: Yellow x1 empty, Blue x1 empty
-  CANDIDATE (Bag): Eldr'naan Shoulderpads of the Whale (ilvl 114, Uncommon) | Spirit 26, Stamina 40, Armor 105
+  EQUIPPED: Spaulders of Oblivion (ilvl 115, Rare) | Intellect 17, Spell Power 28, Stamina 25, Armor 117 | Sockets: Yellow x1 filled, Blue x1 filled
+  CANDIDATE (Bag): Eldr'naan Shoulderpads of the Owl (ilvl 114, Uncommon) | Intellect 26, Spirit 26, Armor 105
   CANDIDATE (Bag): Destroyers' Mantle (ilvl 91, Rare) | Crit Spell Rating 9, Intellect 12, Spell Power 34, Spirit 8, Stamina 12, Armor 94
-  CANDIDATE (Bag): Spaulders of Oblivion (ilvl 115, Rare) | Intellect 17, Spell Power 28, Stamina 25, Armor 117 | Sockets: Yellow x1 filled, Blue x1 filled
+  CANDIDATE (Bag): Evoker's Silk Amice (ilvl 115, Rare) | Crit Spell Rating 8, Intellect 16, Resilience Rating 15, Spell Power 24, Stamina 21, Armor 117 | Sockets: Yellow x1 empty, Blue x1 empty
 
 Back:
-  EQUIPPED: Sergeant's Heavy Cape (ilvl 123, Epic) | Intellect 12, Resilience Rating 16, Spell Power 25, Stamina 33, Armor 104
-  CANDIDATE (Bag): Cloak of Entropy (ilvl 88, Rare) | Hit Spell Rating 10, Intellect 11, Spell Power 24, Armor 61
-  CANDIDATE (Bank): Syrannis' Mystic Sheen (ilvl 115, Rare) | Armor 78
+  EQUIPPED: Cloak of Entropy (ilvl 88, Rare) | Hit Spell Rating 10, Intellect 11, Spell Power 24, Armor 61
+  CANDIDATE (Bag): Sergeant's Heavy Cape (ilvl 123, Epic) | Intellect 12, Resilience Rating 16, Spell Power 25, Stamina 33, Armor 104
 
 Chest:
-  EQUIPPED: Evoker's Silk Raiment (ilvl 115, Rare) | Crit Spell Rating 17, Intellect 15, Resilience Rating 18, Spell Power 22, Stamina 42, Armor 156 | Sockets: Yellow x2 empty, Red x1 empty
-  CANDIDATE (Bag): Incanter's Robe (ilvl 115, Rare) | Crit Spell Rating 8, Intellect 22, Spell Power 28, Spirit 22, Stamina 24, Armor 156 | Sockets: Yellow x2 filled, Red x1 filled
+  EQUIPPED: Incanter's Robe (ilvl 115, Rare) | Crit Spell Rating 8, Intellect 22, Spell Power 28, Spirit 22, Stamina 24, Armor 156 | Sockets: Yellow x2 filled, Red x1 filled
+  CANDIDATE (Bag): Evoker's Silk Raiment (ilvl 115, Rare) | Crit Spell Rating 17, Intellect 15, Resilience Rating 18, Spell Power 22, Stamina 42, Armor 156 | Sockets: Yellow x2 empty, Red x1 empty
   CANDIDATE (Bag): Shadowcast Tunic (ilvl 88, Rare) | Crit Spell Rating 14, Intellect 15, Spell Power 43, Stamina 21, Armor 122
-  CANDIDATE (Bank): Hallowed Garments (ilvl 115, Rare) | Intellect 26, Spell Damage Done 18, Spell Healing Done 56, Spirit 26, Stamina 12, Armor 156 | Sockets: Yellow x1 empty, Blue x1 empty, Red x1 empty
 
 Wrist:
-  EQUIPPED: Shattrath Wraps (ilvl 115, Rare) | Intellect 15, Spell Power 20, Stamina 15, Armor 68 | Sockets: Red x1 filled
+  EQUIPPED: Veteran's Silk Cuffs (ilvl 126, Epic) | Crit Spell Rating 14, Intellect 18, Resilience Rating 13, Spell Power 21, Stamina 25, Armor 93 | Sockets: Yellow x1 empty
 
 Hands:
-  EQUIPPED: Evoker's Silk Handguards (ilvl 115, Rare) | Crit Spell Rating 17, Intellect 12, Resilience Rating 17, Spell Power 18, Stamina 33, Armor 97
-  CANDIDATE (Bag): Gloves of Oblivion (ilvl 115, Rare) | Hit Spell Rating 20, Intellect 21, Spell Power 25, Stamina 33, Armor 97
-  CANDIDATE (Bank): Manaspark Gloves (ilvl 94, Rare) | Hit Spell Rating 15, Intellect 14, Spell Power 15, Spirit 10, Stamina 14, Armor 81 | Sockets: Yellow x1 filled, Red x1 filled
+  EQUIPPED: Gloves of Oblivion (ilvl 115, Rare) | Hit Spell Rating 20, Intellect 21, Spell Power 25, Stamina 33, Armor 97
+  CANDIDATE (Bag): Evoker's Silk Handguards (ilvl 115, Rare) | Crit Spell Rating 17, Intellect 12, Resilience Rating 17, Spell Power 18, Stamina 33, Armor 97
 
 Waist:
   EQUIPPED: A'dal's Gift (ilvl 115, Rare) | Crit Spell Rating 21, Intellect 25, Spell Power 33, Armor 88
-  CANDIDATE (Bag): Rubium War-Girdle (ilvl 115, Rare) | Crit Rating 18, Stamina 29, Strength 31, Armor 655
-  CANDIDATE (Bank): Mindfire Waistband (ilvl 88, Rare) | Crit Spell Rating 11, Intellect 14, Spell Power 20, Spirit 8, Stamina 10, Armor 68 | Sockets: Yellow x1 filled, Blue x1 filled
+  CANDIDATE (Bag): Veteran's Silk Belt (ilvl 136, Epic) | Crit Spell Rating 27, Intellect 27, Resilience Rating 26, Spell Power 31, Stamina 39, Armor 128
 
 Legs:
-  EQUIPPED: Evoker's Silk Trousers (ilvl 115, Rare) | Crit Spell Rating 22, Intellect 22, Resilience Rating 22, Spell Power 32, Stamina 42, Armor 136
-  CANDIDATE (Bag): Deadly Borer Leggings (ilvl 88, Rare) | Crit Spell Rating 22, Intellect 23, Spell Power 26, Spirit 15, Stamina 21, Armor 106
+  EQUIPPED: Deadly Borer Leggings (ilvl 88, Rare) | Crit Spell Rating 22, Intellect 23, Spell Power 26, Spirit 15, Stamina 21, Armor 106
+  CANDIDATE (Bag): Evoker's Silk Trousers (ilvl 115, Rare) | Crit Spell Rating 22, Intellect 22, Resilience Rating 22, Spell Power 32, Stamina 42, Armor 136
 
 Feet:
   EQUIPPED: Shattrath Jumpers (ilvl 115, Rare) | Intellect 17, Spell Power 28, Stamina 25, Armor 107 | Sockets: Yellow x1 filled, Blue x1 filled
 
 Ring 1:
   EQUIPPED: Band of the Guardian (ilvl 115, Rare) | Crit Spell Rating 17, Intellect 11, Spell Penetration 16, Spell Power 22
-  CANDIDATE (Bag): Alexandrite Ring of the Tiger (ilvl 114, Uncommon) | Agility 19, Strength 19
-  CANDIDATE (Bank): Wildlord's Band (ilvl 108, Uncommon) | Crit Spell Rating 11, Intellect 8, Spell Power 24
-  CANDIDATE (Bank): Alexandrite Ring of Power (ilvl 114, Uncommon) | Attack Power 30
 
 Ring 2:
   EQUIPPED: Scintillating Coral Band (ilvl 112, Rare) | Crit Spell Rating 17, Intellect 15, Spell Power 20, Stamina 14
-  CANDIDATE (Bag): Alexandrite Ring of the Tiger (ilvl 114, Uncommon) | Agility 19, Strength 19
-  CANDIDATE (Bank): Wildlord's Band (ilvl 108, Uncommon) | Crit Spell Rating 11, Intellect 8, Spell Power 24
-  CANDIDATE (Bank): Alexandrite Ring of Power (ilvl 114, Uncommon) | Attack Power 30
 
 Trinket 1:
-  EQUIPPED: Medallion of the Alliance (ilvl 115, Rare) | Resilience Rating 20
-  CANDIDATE (Bag): Jewel of Charismatic Mystique (ilvl 112, Rare)
+  EQUIPPED: Jewel of Charismatic Mystique (ilvl 112, Rare)
+  CANDIDATE (Bag): Medallion of the Alliance (ilvl 115, Rare) | Resilience Rating 20
   CANDIDATE (Bag): Glowing Crystal Insignia (ilvl 96, Uncommon) | Spell Power 25
-  CANDIDATE (Bank): Hypnotist's Watch (ilvl 93, Uncommon)
-  CANDIDATE (Bank): Power of the High Chief (ilvl 59, Rare) | Spell Power 28
-  CANDIDATE (Bank): Power Infused Mushroom (ilvl 97, Rare)
 
 Trinket 2:
   EQUIPPED: Vengeance of the Illidari (ilvl 88, Rare) | Crit Spell Rating 26
-  CANDIDATE (Bag): Jewel of Charismatic Mystique (ilvl 112, Rare)
+  CANDIDATE (Bag): Medallion of the Alliance (ilvl 115, Rare) | Resilience Rating 20
   CANDIDATE (Bag): Glowing Crystal Insignia (ilvl 96, Uncommon) | Spell Power 25
-  CANDIDATE (Bank): Hypnotist's Watch (ilvl 93, Uncommon)
-  CANDIDATE (Bank): Power of the High Chief (ilvl 59, Rare) | Spell Power 28
-  CANDIDATE (Bank): Power Infused Mushroom (ilvl 97, Rare)
 
 Main Hand:
-  EQUIPPED: Crystalforged Sword (ilvl 115, Rare) | Block Rating 11, Damage Per Second 41, Intellect 8, Spell Power 120, Stamina 30
-  CANDIDATE (Bag): Sharpened Stilleto (ilvl 69, Poor) | Damage Per Second 23
+  EQUIPPED: Continuum Blade (ilvl 115, Rare) | Damage Per Second 41, Hit Spell Rating 8, Intellect 11, Spell Power 120, Stamina 30
+  CANDIDATE (Bag): Mining Pick (ilvl 4, Common) | Damage Per Second 1
+  CANDIDATE (Bag, 2H): Glorious War-Axe of the Wolf (ilvl 105, Uncommon) | Agility 32, Damage Per Second 72, Spirit 32
   CANDIDATE (Bag, 2H): Battle Mage's Baton (ilvl 103, Rare) | Crit Spell Rating 30, Damage Per Second 60, Intellect 31, Spell Power 84, Stamina 45
-  CANDIDATE (Bank, 2H): Seth's Graphite Fishing Pole (ilvl 60, Uncommon) | Damage Per Second 46, Stamina 52
-  CANDIDATE (Bank): The Stalker's Fangs (ilvl 94, Rare) | Attack Power 19, Crit Rating 15, Damage Per Second 56, Stamina 16
-  CANDIDATE (Bank): Vibro Sword (ilvl 105, Uncommon) | Crit Spell Rating 10, Damage Per Second 41, Intellect 11, Power Regen0 3, Spell Power 58
+  CANDIDATE (Bag): Crystalforged Sword (ilvl 115, Rare) | Block Rating 11, Damage Per Second 41, Intellect 8, Spell Power 120, Stamina 30
 
 Off Hand:
-  EQUIPPED: Manual of the Nethermancer (ilvl 115, Rare) | Crit Spell Rating 19, Intellect 15, Spell Power 20, Stamina 12
-  CANDIDATE (Bag): Draenei Crystal Rod of Intellect (ilvl 120, Uncommon) | Intellect 32
-  CANDIDATE (Bag): Sharpened Stilleto (ilvl 69, Poor) | Damage Per Second 23
-  CANDIDATE (Bank): The Stalker's Fangs (ilvl 94, Rare) | Attack Power 19, Crit Rating 15, Damage Per Second 56, Stamina 16
-  CANDIDATE (Bank): The Saga of Terokk (ilvl 115, Rare) | Intellect 23, Spell Power 27
+  EQUIPPED: Star-Heart Lamp (ilvl 112, Rare) | Hit Spell Rating 12, Intellect 18, Spell Power 21, Stamina 17
+  CANDIDATE (Bag): Manual of the Nethermancer (ilvl 115, Rare) | Crit Spell Rating 19, Intellect 15, Spell Power 20, Stamina 12
 
 Ranged:
   EQUIPPED: Nexus Torch (ilvl 115, Rare) | Crit Spell Rating 11, Damage Per Second 129, Intellect 10, Spell Power 7, Stamina 9
-  CANDIDATE (Bag): Wand of the Netherwing (ilvl 112, Rare) | Damage Per Second 125, Spell Power 15, Stamina 19
-  CANDIDATE (Bank): Rejuvenating Scepter (ilvl 108, Uncommon) | Damage Per Second 102, Power Regen0 1, Spell Damage Done 10, Spell Healing Done 30
-  CANDIDATE (Bank): Soul-Wand of the Aldor (ilvl 112, Rare) | Damage Per Second 125, Intellect 8, Spell Damage Done 7, Spell Healing Done 21, Spirit 10, Stamina 9
 
 -- EQUIPPED TOTALS --
-Armor: 1000
-Block Rating: 11
-Crit Spell Rating: 206
+Armor: 952
+Crit Spell Rating: 169
 Damage Per Second: 170
-Hit Spell Rating: 9
-Intellect: 223
-Resilience Rating: 127
+Hit Spell Rating: 59
+Intellect: 260
+Resilience Rating: 13
 Spell Penetration: 16
-Spell Power: 434
-Stamina: 330
-(Spell Hit: ~0.7% from rating -- raid-boss cap is commonly cited as 202 rating / 16%, less if you have hit-related talents; verify against your own talent build)
+Spell Power: 452
+Spirit: 54
+Stamina: 253
+(Spell Hit: ~4.7% from rating -- raid-boss cap is commonly cited as 202 rating / 16%, less if you have hit-related talents; verify against your own talent build)
 
 
 (AI: use the full data above to verify or correct the quick summary at the top of this export -- item level alone can be misleading.)
@@ -132,116 +108,67 @@ Stamina: 330
 -- FULL INVENTORY (every item, no matter what -- equipped, bags, bank) --
 
 Character (Equipped):
-  Evoker's Silk Cowl (ilvl 115, Rare)
+  Incanter's Cowl (ilvl 115, Rare)
   Brooch of Heightened Potential (ilvl 112, Rare)
-  Evoker's Silk Amice (ilvl 115, Rare)
+  Spaulders of Oblivion (ilvl 115, Rare)
   Red Linen Shirt (ilvl 10, Common)
-  Evoker's Silk Raiment (ilvl 115, Rare)
+  Incanter's Robe (ilvl 115, Rare)
   A'dal's Gift (ilvl 115, Rare)
-  Evoker's Silk Trousers (ilvl 115, Rare)
+  Deadly Borer Leggings (ilvl 88, Rare)
   Shattrath Jumpers (ilvl 115, Rare)
-  Shattrath Wraps (ilvl 115, Rare)
-  Evoker's Silk Handguards (ilvl 115, Rare)
+  Veteran's Silk Cuffs (ilvl 126, Epic)
+  Gloves of Oblivion (ilvl 115, Rare)
   Band of the Guardian (ilvl 115, Rare)
   Scintillating Coral Band (ilvl 112, Rare)
-  Medallion of the Alliance (ilvl 115, Rare)
+  Jewel of Charismatic Mystique (ilvl 112, Rare)
   Vengeance of the Illidari (ilvl 88, Rare)
-  Sergeant's Heavy Cape (ilvl 123, Epic)
-  Crystalforged Sword (ilvl 115, Rare)
-  Manual of the Nethermancer (ilvl 115, Rare)
+  Cloak of Entropy (ilvl 88, Rare)
+  Continuum Blade (ilvl 115, Rare)
+  Star-Heart Lamp (ilvl 112, Rare)
   Nexus Torch (ilvl 115, Rare)
   Guild Tabard (ilvl 1, Common)
 
-Bags (62 items):
+Bags (41 items):
   Reawakened Phase-Hunter (ilvl 30, Epic)
   Blue Mechanostrider (ilvl 30, Rare)
   Ebon Gryphon (ilvl 70, Rare)
-  Arcane Powder x2 (ilvl 56, Common)
+  Eye of the Storm Mark of Honor (ilvl 1, Uncommon)
   Dark Portal (ilvl 1, Rare)
   Hearthstone (ilvl 1, Common)
   Miniwing (ilvl 96, Common)
-  Archmage Vargoth's Staff (ilvl 1, Common)
-  Battered Steam Tonk Controller (ilvl 55, Common)
-  Demonic Rune Stone (ilvl 1, Common)
-  Coilfang Armaments x4 (ilvl 1, Common)
+  Warsong Gulch Mark of Honor x5 (ilvl 1, Uncommon)
+  Arcane Powder x14 (ilvl 56, Common)
+  Mining Pick (ilvl 4, Common)
   Path of Illidan (ilvl 1, Rare)
-  Mature Bone Sifter Carcass x7 (ilvl 1, Common)
-  Sunfury Signet x33 (ilvl 1, Common)
-  Spirit Shard x17 (ilvl 1, Common)
-  Talasite (ilvl 70, Rare)
-  Holy Dust (ilvl 0, Common)
-  Mild Spices x20 (ilvl 5, Common)
-  Underspore Pod x11 (ilvl 100, Common)
-  Conjured Glacier Water x8 (ilvl 75, Common)
-  Mark of Sargeras x25 (ilvl 1, Common)
-  Rune of Portals x17 (ilvl 40, Common)
-  Netherweave Cloth x20 (ilvl 60, Common)
-  Mana Emerald (ilvl 68, Common)
-  Everlasting Underspore Frond (ilvl 100, Rare)
-  Potent Sha'tari Pendant (ilvl 115, Rare)
-  Warsong Gulch Mark of Honor x3 (ilvl 1, Uncommon)
-  Smoked Talbuk Venison x4 (ilvl 65, Common)
-  Alexandrite Ring of the Tiger (ilvl 114, Uncommon)
-  Eldr'naan Shoulderpads of the Whale (ilvl 114, Uncommon)
-  Arathi Basin Mark of Honor x3 (ilvl 1, Uncommon)
-  Rune of Teleportation x11 (ilvl 20, Common)
-  Purified Draenic Water x2 (ilvl 75, Common)
-  Conjured Manna Biscuit x10 (ilvl 75, Common)
-  Wand of the Netherwing (ilvl 112, Rare)
-  Netherweave Cloth x14 (ilvl 60, Common)
-  Tanzanite Pendant of Eluding (ilvl 120, Uncommon)
-  Runecloth x6 (ilvl 50, Common)
-  Conjured Croissant x8 (ilvl 75, Common)
-  Master Healthstone (ilvl 70, Common)
-  Zangar Caps (ilvl 65, Common)
-  Draenei Crystal Rod of Intellect (ilvl 120, Uncommon)
-  Sharpened Stilleto (ilvl 69, Poor)
-  Conjured Manna Biscuit x20 (ilvl 75, Common)
-  Bottled Nethergon Energy x7 (ilvl 68, Common)
-  Bottled Nethergon Vapor x2 (ilvl 65, Common)
-  Conjured Manna Biscuit x20 (ilvl 75, Common)
-  Rubium War-Girdle (ilvl 115, Rare)
-  Mana-Etched Crown (ilvl 115, Rare)
-  Primal Nether (ilvl 65, Rare)
-  Incanter's Robe (ilvl 115, Rare)
+  Rune of Teleportation x15 (ilvl 20, Common)
+  Rune of Portals x20 (ilvl 40, Common)
+  Conjured Glacier Water x6 (ilvl 75, Common)
+  Light Feather (ilvl 1, Common)
+  Oronok's Tuber of Spell Power x17 (ilvl 75, Common)
+  Conjured Croissant x13 (ilvl 75, Common)
+  Smoked Talbuk Venison (ilvl 65, Common)
+  Rune of Portals (ilvl 40, Common)
+  Purified Draenic Water x3 (ilvl 75, Common)
+  Conjured Manna Biscuit x14 (ilvl 75, Common)
+  Eldr'naan Shoulderpads of the Owl (ilvl 114, Uncommon)
+  Netherweave Cloth x16 (ilvl 60, Common)
+  Glorious War-Axe of the Wolf (ilvl 105, Uncommon)
+  Badge of Justice x2 (ilvl 70, Epic)
+  Veteran's Pendant of Conquest (ilvl 128, Epic)
+  Veteran's Silk Belt (ilvl 136, Epic)
+  Evoker's Silk Raiment (ilvl 115, Rare)
   Hydromancer's Headwrap (ilvl 115, Rare)
-  Jewel of Charismatic Mystique (ilvl 112, Rare)
+  Medallion of the Alliance (ilvl 115, Rare)
   Battle Mage's Baton (ilvl 103, Rare)
-  Cloak of Entropy (ilvl 88, Rare)
+  Sergeant's Heavy Cape (ilvl 123, Epic)
   Shadowcast Tunic (ilvl 88, Rare)
-  Gloves of Oblivion (ilvl 115, Rare)
-  Incanter's Cowl (ilvl 115, Rare)
+  Evoker's Silk Handguards (ilvl 115, Rare)
+  Evoker's Silk Cowl (ilvl 115, Rare)
+  Crystalforged Sword (ilvl 115, Rare)
+  Manual of the Nethermancer (ilvl 115, Rare)
   Destroyers' Mantle (ilvl 91, Rare)
-  Deadly Borer Leggings (ilvl 88, Rare)
+  Evoker's Silk Trousers (ilvl 115, Rare)
   Glowing Crystal Insignia (ilvl 96, Uncommon)
-  Spaulders of Oblivion (ilvl 115, Rare)
+  Evoker's Silk Amice (ilvl 115, Rare)
 
-Bank (28 items):
-  Seth's Graphite Fishing Pole (ilvl 60, Uncommon)
-  The Stalker's Fangs (ilvl 94, Rare)
-  Vibro Sword (ilvl 105, Uncommon)
-  Herb Pouch (ilvl 20, Uncommon)
-  Herb Pouch (ilvl 20, Uncommon)
-  Hypnotist's Watch (ilvl 93, Uncommon)
-  Power of the High Chief (ilvl 59, Rare)
-  Power Infused Mushroom (ilvl 97, Rare)
-  Large Prismatic Shard (ilvl 70, Rare)
-  Diopside Beads of Regeneration (ilvl 108, Uncommon)
-  The Saga of Terokk (ilvl 115, Rare)
-  Rejuvenating Scepter (ilvl 108, Uncommon)
-  Wildlord's Band (ilvl 108, Uncommon)
-  Medicinal Drake Essence x5 (ilvl 105, Uncommon)
-  Alexandrite Ring of Power (ilvl 114, Uncommon)
-  Alterac Valley Mark of Honor x3 (ilvl 1, Uncommon)
-  Fel Armament (ilvl 0, Uncommon)
-  Bag of Marbles (ilvl 8, Common)
-  Mark of Sargeras x3 (ilvl 1, Common)
-  Eye of the Storm Mark of Honor (ilvl 1, Uncommon)
-  Arathi Basin Mark of Honor (ilvl 1, Uncommon)
-  Syrannis' Mystic Sheen (ilvl 115, Rare)
-  Manaspark Gloves (ilvl 94, Rare)
-  Soul-Wand of the Aldor (ilvl 112, Rare)
-  Warsong Gulch Mark of Honor x2 (ilvl 1, Uncommon)
-  Mindfire Waistband (ilvl 88, Rare)
-  Hallowed Garments (ilvl 115, Rare)
-  Torc of the Sethekk Prophet (ilvl 115, Rare)
+Bank: NOT CONNECTED -- open your bank window, then run /gearexport again to include bank items here
